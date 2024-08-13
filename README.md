@@ -75,6 +75,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Erayakg/Erayakg/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/Erayakg/Erayakg/blob/main/snake.svg" alt="Snake animation" />
 
 ###
