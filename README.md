@@ -13,12 +13,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Erayakg.Erayakg&"  />
-</div>
-
-###
-
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
@@ -73,8 +67,3 @@
   <img src="https://streak-stats.demolab.com?user=Erayakg&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/Erayakg/Erayakg/output/snake.svg" alt="Snake animation" />
-
-###
